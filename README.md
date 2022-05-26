@@ -20,7 +20,6 @@ Follow me or [shoot me an email](mailto:aussiedev81@gmail.com)
 
 <br/>
 <hr/>
-<br/>
 
 ## Languages, tools, and frameworks
 <table>
